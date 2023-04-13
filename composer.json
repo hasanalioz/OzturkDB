@@ -23,7 +23,8 @@
     "illuminate/container": "^10.0",
     "illuminate/contracts": "^10.0",
     "illuminate/macroable": "^10.0",
-    "illuminate/support": "^10.0"
+    "illuminate/support": "^10.0",
+	"hasanalioz/ozturkdb": "main"
   },
   "autoload": {
     "psr-4": {
