@@ -2,6 +2,7 @@
   "name": "hasanalioz/ozturkdb",
   "description": "The Illuminate Database package.For My Personal Use...",
   "license": "MIT",
+  "version": "1.0.0",
   "homepage": "https://hasanali.site",
   "support": {
     "issues": "https://github.com/laravel/framework/issues",
